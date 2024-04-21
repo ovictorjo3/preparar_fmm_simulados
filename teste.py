@@ -13,7 +13,7 @@ def salvar_resultados(resultados):
     sheet.title = "Resultados" #nome da turma
 
     # Escrevendo cabeçalho
-    sheet["A1"] = "Aluno"
+    sheet["A1"] = "Aluno(a)"
     sheet["B1"] = "Pontuação"
 
     # Escrevendo dados
