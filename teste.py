@@ -32,15 +32,15 @@ gabarito = ['D','E','D','D','A','A','B','C','A','D',
 
 # Respostas dos alunos (formato: (nome, respostas))
 respostas_alunos = [
-    ("AJOAO VICTOR",['D','E','D','D','A','A','B','C','A','D',
-                    'E','B','C','D','E','A','B','C','D','B',
-                    'B','E','C','E','C','C','A','A','D','E',
-                    'C','B','C','B','D','E','E','D','D','A']),
+    ("GABRIELE PINTO FERREIRA",['D','B','B','A','C','A','','C','D','',
+                    'C','B','B','C','A','A','C','A','A','B',
+                    'C','A','D','A','C','D','D','C','D','D',
+                    'B','A','D','A','D','D','B','D','E','B']),
 
-    ("PEDRO AUGUSTO",['D','E','D','D','A','A','B','C','A','D',
-                    'E','B','C','D','E','A','B','C','D','B',
-                    'B','E','C','E','C','C','A','A','D','E',
-                    'C','B','C','B','D','E','E','D','D','A']),
+    ("CLARICE CONCEIÇÃO",['C','E','B','C','D','C','B','D','B','D',
+                    'A','D','A','B','B','A','D','E','D','B',
+                    'B','C','E','E','C','A','B','D','B','D',
+                    'E','B','C','B','B','C','B','D','E','B']), #AQUI
 
     ("JOSE OTAVIO",['D','E','D','D','A','A','B','C','A','D',
                     'E','B','C','D','E','A','B','C','D','B',
